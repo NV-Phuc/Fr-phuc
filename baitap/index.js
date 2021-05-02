@@ -50,3 +50,5 @@ else if(scoretun = scoreti && (scoreti || scoretun) > scoreteo){
 else{
     console.log("ca 3 cung hoa:", scoreteo);
 }
+
+
